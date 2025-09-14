@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm a Senioir Software Engineer in Nottingham working in HealthTech.
+
+Passionate about Product. I build excellent user experience and lead teams toward an engineering culture that prioritises feedback, learning and shipping that matters.
+
 <!--
 **MartinDM/martindm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
