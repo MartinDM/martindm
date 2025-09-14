@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi. I'm Martin 👋
 
 I'm a Senioir Software Engineer in Nottingham working in HealthTech.
 
